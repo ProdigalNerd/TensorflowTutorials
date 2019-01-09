@@ -55,6 +55,9 @@ print()
 print(train_data[0])
 print()
 
+print(train_labels)
+print()
+
 # input shape is the vocabulary count used for the movie reviews (10,000 words)
 vocab_size = 10000
 
